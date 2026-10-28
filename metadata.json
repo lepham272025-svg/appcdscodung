@@ -1,0 +1,6 @@
+{
+  "name": "Công Dân Số Nhí - Lớp 5/1 Sóc Sơn",
+  "description": "Ứng dụng giáo dục học sinh lớp 5 sử dụng AI an toàn và có trách nhiệm - Cô Trần Thị Kim Dung, Tiểu học Sóc Sơn, An Giang",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
