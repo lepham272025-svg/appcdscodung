@@ -232,7 +232,7 @@ export const MISSIONS_DATA: Mission[] = [
       categoryA: 'Sự Thật (Có Thể Xác Minh)',
       categoryB: 'Ý Kiến / Suy Đoán (Chủ Quan)',
       items: [
-        { text: 'Trường Tiểu học Sóc Sơn thuộc huyện Tri Tôn, tỉnh An Giang', category: 'A', explanation: 'Địa chỉ trường học là dữ liệu hành chính thực tế, kiểm chứng được 100%.' },
+        { text: 'Trường Tiểu học Sóc Sơn thuộc xã Mỹ Thuận, tỉnh An Giang', category: 'A', explanation: 'Địa chỉ trường học là dữ liệu hành chính thực tế, kiểm chứng được 100%.' },
         { text: 'Kem sô-cô-la là món tráng miệng ngon nhất trần đời', category: 'B', explanation: 'Mỗi bạn có khẩu vị khác nhau, đây là sở thích cá nhân.' },
         { text: 'Trái Đất quay quanh Mặt Trời', category: 'A', explanation: 'Đây là quy luật thiên văn học đã được khoa học chứng minh.' },
         { text: 'Chắc chắn ngày mai trời sẽ mưa to làm trường học ngập nước', category: 'B', explanation: 'Dự đoán chưa xảy ra, cần tham khảo bản tin dự báo thời tiết của Đài khí tượng.' },
@@ -323,7 +323,7 @@ export const MISSIONS_DATA: Mission[] = [
       id: 'sc_m4',
       missionId: 4,
       title: 'Tình huống: Tin nhắn mượn tiền từ tài khoản bạn thân',
-      situation: 'Tối thứ Bảy, bạn Tuấn nhận được tin nhắn từ tài khoản Facebook của bạn Hùng (bạn thân ngồi cùng bàn lớp 5/1): "Tuấn ơi cứu tớ với! Mẹ tớ đang cấp cứu ở bệnh viện Tri Tôn, cậu lấy điện thoại của mẹ cậu chuyển gấp 200.000đ vào số tài khoản này giúp tớ nhé, mai tớ đến trường trả!".',
+      situation: 'Tối thứ Bảy, bạn Tuấn nhận được tin nhắn từ tài khoản Facebook của bạn Hùng (bạn thân ngồi cùng bàn lớp 5/1): "Tuấn ơi cứu tớ với! Mẹ tớ đang cấp cứu ở bệnh viện, cậu lấy điện thoại của mẹ cậu chuyển gấp 200.000đ vào số tài khoản này giúp tớ nhé, mai tớ đến trường trả!".',
       context: 'Nếu là Tuấn, em nên làm gì?',
       choices: [
         {
@@ -462,7 +462,7 @@ export const MISSIONS_DATA: Mission[] = [
         title: '2. Bản cam kết Công dân số nhí Lớp 5/1',
         content: [
           'Một công dân số thực thụ không chỉ biết lý thuyết mà thể hiện bằng hành động mỗi ngày.',
-          'Cam kết giữ gìn uy tín của học sinh Trường Tiểu học Sóc Sơn, huyện Tri Tôn, tỉnh An Giang.',
+          'Cam kết giữ gìn uy tín của học sinh Trường Tiểu học Sóc Sơn, xã Mỹ Thuận, tỉnh An Giang.',
           'Lan tỏa những điều tốt đẹp, hướng dẫn lại cho ông bà, cha mẹ và các em nhỏ cách nhận biết tin giả và phòng chống lừa đảo trên mạng.'
         ]
       },

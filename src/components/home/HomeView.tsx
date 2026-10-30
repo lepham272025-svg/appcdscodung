@@ -44,7 +44,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
             {/* School & Class Badge */}
             <div className="inline-flex items-center gap-2 px-3 py-1 bg-white/15 backdrop-blur-md rounded-full text-xs font-semibold tracking-wide text-sky-100">
               <School className="w-3.5 h-3.5 text-amber-300" />
-              <span>Trường Tiểu học Sóc Sơn · Lớp 5/1 · Huyện Tri Tôn, An Giang</span>
+              <span>Trường Tiểu học Sóc Sơn · Lớp 5/1 · Xã Mỹ Thuận, Tỉnh An Giang</span>
             </div>
 
             <h1 className="text-2xl sm:text-4xl lg:text-5xl font-black tracking-tight leading-tight text-balance">

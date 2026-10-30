@@ -395,10 +395,10 @@ export const COMPETITION_DOSSIER = {
   author: 'Trần Thị Kim Dung',
   school: 'Trường Tiểu học Sóc Sơn',
   classTarget: 'Lớp 5/1',
-  location: 'Huyện Tri Tôn, Tỉnh An Giang',
+  location: 'Xã Mỹ Thuận, Tỉnh An Giang',
   
   contextAndProblem: [
-    'Bối cảnh địa phương: Trường Tiểu học Sóc Sơn thuộc huyện Tri Tôn, An Giang, nơi có đông đảo học sinh tiếp cận điện thoại thông minh và Internet ngoài giờ học, nhưng phần lớn các em thiếu kiến thức tự bảo vệ trước các cạm bẫy lừa đảo và tin giả.',
+    'Bối cảnh địa phương: Trường Tiểu học Sóc Sơn thuộc xã Mỹ Thuận, tỉnh An Giang, nơi có đông đảo học sinh tiếp cận điện thoại thông minh và Internet ngoài giờ học, nhưng phần lớn các em thiếu kiến thức tự bảo vệ trước các cạm bẫy lừa đảo và tin giả.',
     'Thực trạng nhức nhối: Khảo sát đầu vào 40 học sinh lớp 5/1 cho thấy 72% học sinh tin ngay vào ảnh giật gân trên mạng; 58% sẵn sàng cung cấp thông tin để nhận kim cương game; 65% xem việc copy bài của AI là bình thường.',
     'Tính cấp thiết: Chương trình GDPT 2018 chú trọng phát triển năng lực số, nhưng chưa có bộ công cụ trực quan, tương tác cao phù hợp tâm sinh lý lứa tuổi 10-11 tuổi tại địa phương.'
   ],
@@ -443,6 +443,6 @@ export const COMPETITION_DOSSIER = {
     { minute: 'Phút 2', title: 'Giới thiệu giải pháp & Bé Sao AI', content: 'Để giải quyết bài toán đó, tôi đã thiết kế ứng dụng "Công Dân Số Nhí". Với sự đồng hành của bạn nhỏ Bé Sao AI, 6 nhiệm vụ học tập được biến thành hành trình phiêu lưu sinh động...' },
     { minute: 'Phút 3', title: 'Trực quan hóa hoạt động lớp học', content: 'Các em không nghe lý thuyết suông, mà trực tiếp làm thám tử lật tẩy tin đồn cá voi bay trên núi Sam, phân loại mật khẩu mạnh, gọi điện xác minh tài khoản bị hack...' },
     { minute: 'Phút 4', title: 'Minh chứng hiệu quả đo lường', content: 'Kết quả đối chiếu Pre-test và Post-test trên 40 học sinh lớp 5/1 cho thấy năng lực nhận diện cạm bẫy tăng hơn 100%. Các em đã từ người dùng thụ động trở thành công dân số có trách nhiệm...' },
-    { minute: 'Phút 5', title: 'Kết luận & Khát vọng lan tỏa', content: 'Thông minh khi dùng AI - An toàn trong thế giới số - Trách nhiệm với cộng đồng. Tôi tin rằng giải pháp từ một lớp học vùng quê Tri Tôn hoàn toàn có thể nhân rộng đến mọi mái trường tiểu học trên cả nước. Xin trân trọng cảm ơn!' }
+    { minute: 'Phút 5', title: 'Kết luận & Khát vọng lan tỏa', content: 'Thông minh khi dùng AI - An toàn trong thế giới số - Trách nhiệm với cộng đồng. Tôi tin rằng giải pháp từ một lớp học vùng quê xã Mỹ Thuận, tỉnh An Giang hoàn toàn có thể nhân rộng đến mọi mái trường tiểu học trên cả nước. Xin trân trọng cảm ơn!' }
   ]
 };

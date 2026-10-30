@@ -194,10 +194,10 @@ export const AchievementsView: React.FC<AchievementsViewProps> = ({
           {/* Watermark Laurel Motif */}
           <div className="text-center space-y-1">
             <div className="text-xs font-bold uppercase tracking-widest text-amber-700">
-              PHÒNG GIÁO DỤC VÀ ĐÀO TẠO HUYỆN TRI TÔN
+              TRƯỜNG TIỂU HỌC SÓC SƠN · XÃ MỸ THUẬN, TỈNH AN GIANG
             </div>
             <div className="text-sm font-extrabold uppercase tracking-wide text-slate-800">
-              TRƯỜNG TIỂU HỌC SÓC SƠN · NĂM HỌC 2025 - 2026
+              LỚP 5/1 · NĂM HỌC 2025 - 2026
             </div>
           </div>
 
@@ -237,7 +237,7 @@ export const AchievementsView: React.FC<AchievementsViewProps> = ({
 
             <div className="text-right space-y-1">
               <div className="text-[11px] text-slate-500">
-                Tri Tôn, ngày {new Date().toLocaleDateString('vi-VN')}
+                Mỹ Thuận, ngày {new Date().toLocaleDateString('vi-VN')}
               </div>
               <div className="font-bold text-slate-800 text-sm">GIÁO VIÊN HƯỚNG DẪN</div>
               <div className="h-10 flex items-center justify-end">

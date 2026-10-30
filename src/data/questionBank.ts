@@ -367,7 +367,7 @@ export const QUESTION_BANK: QuizQuestion[] = [
     missionId: 3,
     question: 'Điều nào sau đây là "SỰ THẬT" (Fact), khác với "Ý KIẾN CÁ NHÂN" (Opinion)?',
     options: [
-      '"Trường Tiểu học Sóc Sơn nằm ở huyện Tri Tôn, tỉnh An Giang"',
+      '"Trường Tiểu học Sóc Sơn nằm ở xã Mỹ Thuận, tỉnh An Giang"',
       '"Môn Tin học là môn học vui nhất trên thế giới"',
       '"Robot hình ngôi sao là robot đẹp nhất vũ trụ"',
       '"Chơi game trên máy tính hay hơn đá bóng ngoài sân"'

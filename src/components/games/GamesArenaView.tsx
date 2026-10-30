@@ -180,7 +180,7 @@ export const GamesArenaView: React.FC<GamesArenaViewProps> = ({
       id: 2,
       title: 'Vụ án: Tin nhắn mượn tiền từ nick bạn thân',
       author: 'Nick Facebook của bạn cùng lớp',
-      content: 'Cậu ơi mẹ tớ đang nằm viện cấp cứu ở Tri Tôn, mượn tạm 200k nạp thẻ cào gấp mai tớ trả.',
+      content: 'Cậu ơi mẹ tớ đang nằm viện cấp cứu, mượn tạm 200k nạp thẻ cào gấp mai tớ trả.',
       clues: [
         'Văn phong cộc lốc khác hẳn cách bạn nói chuyện hằng ngày.',
         'Đòi gửi thẻ cào hoặc chuyển vào một số tài khoản mang tên người lạ.',

@@ -103,7 +103,7 @@ export const TeacherPortalView: React.FC = () => {
               <span>·</span>
               <span>Trường: <strong className="text-white">Tiểu học Sóc Sơn</strong></span>
               <span>·</span>
-              <span>Địa phương: <strong className="text-white">Huyện Tri Tôn, Tỉnh An Giang</strong></span>
+              <span>Địa phương: <strong className="text-white">Xã Mỹ Thuận, Tỉnh An Giang</strong></span>
             </div>
           </div>
 
